@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: de48b0e9e799d3c468ea7e7b77fad369
+timeCreated: 1436825556
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - au_breakLamp: {fileID: 8300000, guid: 5e631da5b1cfb514eb5cd17a3a3005a0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
