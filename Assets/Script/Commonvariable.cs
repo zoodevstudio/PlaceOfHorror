@@ -53,7 +53,7 @@ public class CommonVariable : MonoBehaviour
 		#if UNITY_ANDROID
 		string adUnitId = "ca-app-pub-8112894826901791/9216328060";
 		#elif UNITY_IPHONE
-		string adUnitId = "INSERT_IOS_BANNER_AD_UNIT_ID_HERE";
+		string adUnitId = "ca-app-pub-8112894826901791/6194189263";
 		#else
 		string adUnitId = "unexpected_platform";
 		#endif
